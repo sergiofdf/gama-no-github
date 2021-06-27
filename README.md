@@ -1,0 +1,2 @@
+Projeto com arquivos de simulação para aprender sobre GIT, durante curso da GAMA experience no programa Hiring Coders.
+Curso está sendo bem objetivo e claro. A parte do github faltou mostrar como criar uma conta e fazer as configurações iniciais, como já tinha a conta não tive problemas com isso.
